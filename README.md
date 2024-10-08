@@ -16,15 +16,25 @@ Designed and fine-tuned a CNN architecture for multi-class emotion detection, ac
 Employed data augmentation techniques to enhance model robustness and mitigate overfitting.
 
 Preprocessed large-scale image datasets, including facial detection, resizing, and normalization, to optimize input quality.
+
 Utilized Python and deep learning libraries like TensorFlow and Keras for model development, training, and evaluation.
+
 Evaluated model performance using precision, recall, and F1-score metrics, showcasing robust classification capabilities.
+
 Developed an interactive dashboard to visualize real-time emotion predictions from input images.
+
 This revised version highlights your use of transfer learning while maintaining the key contributions of your project.
 
 Utilized transfer learning with VGGNet and ResNet50 to enhance feature extraction capabilities, significantly reducing training time while improving model accuracy.
+
 Designed a robust Convolutional Neural Network (CNN) architecture, implementing multiple layers of convolution and pooling to optimize emotion classification performance.
+
 Applied data augmentation techniques such as rotation, flipping, and zooming to artificially expand the training dataset, improving model generalization and robustness.
+
 Conducted thorough data preprocessing including facial detection, image resizing, and normalization, ensuring high-quality input data for optimal model performance.
+
 Employed Python and key libraries including TensorFlow and Keras for model development, training, and evaluation, adhering to industry best practices.
+
 Implemented performance evaluation metrics such as accuracy, precision, recall, and F1-score to assess model effectiveness, achieving a robust classification performance.
+
 Developed an interactive web application for real-time emotion prediction, utilizing frameworks like Flask to create a user-friendly interface for end-users.
