@@ -10,8 +10,11 @@ Developed a deep learning-based Emotion Detection system that leverages transfer
 Key Contributions:
 
 Implemented transfer learning using VGGNet and ResNet50 to capitalize on pre-trained features for efficient emotion classification.
+
 Designed and fine-tuned a CNN architecture for multi-class emotion detection, achieving high accuracy on validation data.
+
 Employed data augmentation techniques to enhance model robustness and mitigate overfitting.
+
 Preprocessed large-scale image datasets, including facial detection, resizing, and normalization, to optimize input quality.
 Utilized Python and deep learning libraries like TensorFlow and Keras for model development, training, and evaluation.
 Evaluated model performance using precision, recall, and F1-score metrics, showcasing robust classification capabilities.
